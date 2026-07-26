@@ -37,7 +37,6 @@
 -  **[data-cleaning-project](https://github.com/cdjarabe07/data-cleaning-project)** — Nettoyage et préparation de données brutes avec Python et Pandas
 -  **[Analyse-SQL-Chinook](https://github.com/cdjarabe07/Analyse-SQL-Chinook)** — Requêtes et analyse SQL sur la base Chinook
 -  **[Pandas-Time-Series](https://github.com/cdjarabe07/Pandas-Time-Series)** — Analyse de séries temporelles avec Pandas
--  **[portfolio-phanu](https://github.com/cdjarabe07/portfolio-phanu)** — Mon portfolio personnel (HTML)
 
 <br>
 
