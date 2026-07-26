@@ -11,7 +11,7 @@
 -  Actuellement focalisé sur la **Data Science** et l'analyse de données financières
 -  En apprentissage continu : Machine Learning, SQL avancé, visualisation de données
 -  Ouvert aux échanges sur la data, la finance quantitative et les projets collaboratifs
--  Comment me contacter : [LinkedIn](https://www.linkedin.com/in/caleb-djarabe) · [X](https://x.com/cdjarabe)
+-  Comment me contacter : [LinkedIn](https://www.linkedin.com/in/caleb-djarabe) · [X](https://x.com/cdjarabe) · [Instagram](https://www.instagram.com/caleb_djarabe/)
 
 <br>
 
