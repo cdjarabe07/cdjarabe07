@@ -32,6 +32,7 @@
 
 ##  Projets phares
 
+-  **[Pr-vision-macro-conomique-automatis-e-UEMOA-Afrique-de-l-Ouest](https://github.com/cdjarabe07/Pr-vision-macro-conomique-automatis-e-UEMOA-Afrique-de-l-Ouest)** — Prévision macroéconomique
 -  **[E_commerce_Analysis](https://github.com/cdjarabe07/E_commerce_Analysis)** — Analyse de données e-commerce (Jupyter Notebook)
 -  **[ScoutIQ](https://github.com/cdjarabe07/ScoutIQ)** — Projet d'analyse de football féminin (Python)
 -  **[data-cleaning-project](https://github.com/cdjarabe07/data-cleaning-project)** — Nettoyage et préparation de données brutes avec Python et Pandas
