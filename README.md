@@ -42,18 +42,6 @@
 
 <br>
 
-##  Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cdjarabe07&show_icons=true&theme=radical" alt="Stats GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cdjarabe07&theme=radical" alt="Streak GitHub"/>
-</p>
-
-<br>
-
 ##  Réseaux
 
 <p align="left">
