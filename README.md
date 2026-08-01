@@ -1,6 +1,6 @@
 <h1 align="center">Salut, je suis Caleb Djarabé </h1>
 
-<h3 align="center">Data Science | Finance quantitative | Basé à Dakar, Sénégal 🇸🇳</h3>
+<h3 align="center">Data Science | Finance quantitative | Building what I want to use</h3>
 
 <br>
 
