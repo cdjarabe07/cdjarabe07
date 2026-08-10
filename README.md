@@ -44,7 +44,6 @@
 -  **[ML-Internship](https://github.com/cdjarabe07/ml-internship)** — ML Internship
 -  **[Analyse de l'attrition](https://github.com/cdjarabe07/attrition-analysis-abc-manufacturing)** — Analyse de l'attrition (ABC Manufacturing)
 -  **[E_commerce_Analysis](https://github.com/cdjarabe07/E_commerce_Analysis)** — Analyse de données e-commerce (Jupyter Notebook)
--  **[ScoutIQ](https://github.com/cdjarabe07/ScoutIQ)** — Projet d'analyse de football féminin (Python)
 -  **[data-cleaning-project](https://github.com/cdjarabe07/data-cleaning-project)** — Nettoyage et préparation de données brutes avec Python et Pandas
 -  **[Pandas-Time-Series](https://github.com/cdjarabe07/Pandas-Time-Series)** — Analyse de séries temporelles avec Pandas
 
