@@ -41,6 +41,7 @@
 
 -  **[Pr-vision-macro-conomique-automatis-e-UEMOA-Afrique-de-l-Ouest](https://github.com/cdjarabe07/Pr-vision-macro-conomique-automatis-e-UEMOA-Afrique-de-l-Ouest)** — Prévision macroéconomique
 -  **[UEMOA-Dashboard](https://github.com/cdjarabe07/UEMOA-Dashboard)** — Tableau de bord UEMMOA
+-  **[ML-Internship](https://github.com/cdjarabe07/ml-internship)** — ML Internship
 -  **[Analyse de l'attrition](https://github.com/cdjarabe07/attrition-analysis-abc-manufacturing)** — Analyse de l'attrition (ABC Manufacturing)
 -  **[E_commerce_Analysis](https://github.com/cdjarabe07/E_commerce_Analysis)** — Analyse de données e-commerce (Jupyter Notebook)
 -  **[ScoutIQ](https://github.com/cdjarabe07/ScoutIQ)** — Projet d'analyse de football féminin (Python)
