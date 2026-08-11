@@ -37,8 +37,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 ##  Projets phares
 
 -  **[Pr-vision-macro-conomique-automatis-e-UEMOA-Afrique-de-l-Ouest](https://github.com/cdjarabe07/Pr-vision-macro-conomique-automatis-e-UEMOA-Afrique-de-l-Ouest)** — Prévision macroéconomique
