@@ -9,7 +9,7 @@
 -  Étudiant en **MScFE (Master en Ingénierie Financière)** à **WorldQuant University**
 -  Licence en Économie Appliquée — Université St. Charles Lwanga (Sarh, Tchad)
 -  Actuellement focalisé sur la **Data Science** et l'analyse de données financières
--  En apprentissage continu : Machine Learning, SQL avancé, visualisation de données
+-  En apprentissage continu : Machine Learning/DL, NLP, SQL avancé, visualisation de données
 -  Ouvert aux échanges sur la data, la finance quantitative et les projets collaboratifs
 
 <br>
