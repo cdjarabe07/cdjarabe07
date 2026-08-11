@@ -37,26 +37,8 @@
 
 <br>
 
-## Stack technique
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-1E3A8A?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-0E7490?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-2563EB?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-0F766E?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-166534?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-475569?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-0369A1?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-1D4ED8?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3B82F6?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-475569?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0284C7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statsmodels-4338CA?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
 ##  Projets phares
 
 -  **[Pr-vision-macro-conomique-automatis-e-UEMOA-Afrique-de-l-Ouest](https://github.com/cdjarabe07/Pr-vision-macro-conomique-automatis-e-UEMOA-Afrique-de-l-Ouest)** — Prévision macroéconomique
