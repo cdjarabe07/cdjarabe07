@@ -42,7 +42,7 @@
 -  **[Pr-vision-macro-conomique-automatis-e-UEMOA-Afrique-de-l-Ouest](https://github.com/cdjarabe07/Pr-vision-macro-conomique-automatis-e-UEMOA-Afrique-de-l-Ouest)** — Prévision macroéconomique
 -  **[UEMOA-Dashboard](https://github.com/cdjarabe07/UEMOA-Dashboard)** — Construction d'un observatoire économique
 -  **[ML-Internship](https://github.com/cdjarabe07/ml-internship)** — Stage en Machine Learning chez [Elevvo](https://elevvo.tech/home)
--  **[AnalystLab_DS Internship](https://github.com/cdjarabe07/attrition-analysis-abc-manufacturing)** — Stage en Data Science chez [AnalystLab Africa](https://www.linkedin.com/company/analystlab-africa/posts/?feedView=all)
+-  **[AnalystLab_DS Internship](https://github.com/cdjarabe07/AnalystLab_Internship_In_Data_Science)** — Stage en Data Science chez [AnalystLab Africa](https://www.linkedin.com/company/analystlab-africa/posts/?feedView=all)
 -  **[E_commerce_Analysis](https://github.com/cdjarabe07/E_commerce_Analysis)** — Analyse de données e-commerce (Jupyter Notebook)
 -  **[data-cleaning-project](https://github.com/cdjarabe07/data-cleaning-project)** — Nettoyage et préparation de données brutes avec Python et Pandas
 -  **[Pandas-Time-Series](https://github.com/cdjarabe07/Pandas-Time-Series)** — Analyse de séries temporelles avec Pandas
